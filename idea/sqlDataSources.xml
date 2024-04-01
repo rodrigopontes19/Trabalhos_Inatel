@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="a193a130-5b7d-4e1e-ab39-6a1ea879ace2" name="H2 Mapping">
+      <data-sources db="0d8b57e9-a54c-4630-97a6-c1ded3a672ec" />
+      <scope>
+        <node kind="database" qname="LISTA">
+          <node kind="schema" qname="PUBLIC" />
+        </node>
+      </scope>
+    </mapping>
+  </component>
+</project>
